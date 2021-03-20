@@ -5,4 +5,4 @@ Project contains a java file for each page:
 •	ProductDetails.java: contains the steps that user makes from the product details page till viewing the cart 
 •	Checkout.java: contains the checkout and the assertion
 •	General.Java: contains common functions like screenshot 
-•	CeramicStudioShop
+•	CeramicStudioShop.java: contains the needed tests
